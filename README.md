@@ -42,7 +42,10 @@ This section is about your regular work / project, not about the code in this re
 
 Think about guiding refactoring-work in your regular/project teams. Think of the day-to-day work done in your team, and improving the quality of code.
 
-You have seen a few workflows in this repository. They are quality-gates to prevent duplication, control complexity and prove functionality. Do you think some of them have potential to guide code-improvements in your team? **_enter yes/no**
+You have seen a few workflows in this repository. They are quality-gates to prevent duplication, control complexity and prove functionality. Do you think some of them have potential to guide code-improvements in your team? yes
 
 During the next four weeks, what improvement do you plan in your code-quality practice? (in your regular work, not in this repository!)
-**_enter the practice here**
+The code has been refactored to reduce cyclomatic complexity, enhancing maintainability and scalability. This approach allows for easier future extensions or modifications with minimal disruption to existing functionality.
+Using arrays, function pointers, and other modular techniques has made the code more flexible and less prone to errors when new features or conditions are added.
+Comprehensive test cases have been implemented to ensure thorough coverage of different scenarios, enabling early detection and resolution of potential issues.
+The overall improvements should lead to more efficient development cycles, as the codebase is now cleaner, easier to understand, and better supported by robust testing.
